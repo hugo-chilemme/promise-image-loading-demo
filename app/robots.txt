@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /_next/
+
+Sitemap: https://www.zerod.fr/sitemap.xml
